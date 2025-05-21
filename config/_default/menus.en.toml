@@ -31,6 +31,12 @@
   weight = 20
 
 [[main]]
+  name = "TDV 2022"
+  parent = "Events"
+  pageRef = "events/2022/tdv"
+  weight = 30
+
+[[main]]
   name = "Travel Information"
   parent = "Events"
   pageRef = "events/travel_info"
