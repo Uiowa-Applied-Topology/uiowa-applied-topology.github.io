@@ -27,6 +27,23 @@
   weight = 20
 
 [[main]]
+  name = "Events"
+  weight = 20
+
+[[main]]
+  name = "Travel Information"
+  parent = "Events"
+  pageRef = "events/travel_info"
+  weight = 20
+
+[[main]]
+  name = "Points of Interest"
+  parent = "Events"
+  pageRef = "events/poi_info"
+  weight = 20
+
+
+[[main]]
   name = "The Tanglenomicon"
   parent = "Projects"
   pageRef = "projects/tanglenomicon"
