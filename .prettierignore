@@ -1,8 +1,11 @@
 .hugo_build.lock
 public
 resources/_gen
+layouts
 result
 .direnv
 .envrc
 .vscode
+themes
 node_modules
+assets

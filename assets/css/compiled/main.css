@@ -1710,6 +1710,10 @@ select {
   display:flex
 }
 
+.table {
+  display:table
+}
+
 .grid {
   display:grid
 }
@@ -4887,10 +4891,6 @@ pre {
 
   .md\:grid-cols-3 {
     grid-template-columns:repeat(3, minmax(0, 1fr))
-  }
-
-  .md\:flex-col {
-    flex-direction:column
   }
 
   .md\:justify-start {

@@ -11,11 +11,7 @@
     ],
     "id": "adamsEncyclopediaKnotTheory2021",
     "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
+      "date-parts": [[2021]]
     },
     "keyword": "Encyclopedias,Knot theory",
     "language": "en-US",
@@ -36,11 +32,7 @@
     ],
     "id": "adamsKnotBookElementary2004",
     "issued": {
-      "date-parts": [
-        [
-          2004
-        ]
-      ]
+      "date-parts": [[2004]]
     },
     "number-of-pages": "306",
     "publisher": "American Mathematical Society",
@@ -93,11 +85,7 @@
     "edition": "Seventh edition, international student edition",
     "id": "albertsMolecularBiologyCell2022",
     "issued": {
-      "date-parts": [
-        [
-          2022
-        ]
-      ]
+      "date-parts": [[2022]]
     },
     "language": "en-US",
     "number-of-pages": "1404",
@@ -116,11 +104,7 @@
     ],
     "id": "arsuagaDNAKnotSeen2013",
     "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
+      "date-parts": [[2013]]
     },
     "title": "DNA knot as seen under the electron microscope",
     "type": ""
@@ -130,13 +114,7 @@
     "ISSN": "0004-637X, 1538-4357",
     "URL": "https://iopscience.iop.org/article/10.1086/428929",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          10,
-          5
-        ]
-      ]
+      "date-parts": [[2024, 10, 5]]
     },
     "author": [
       {
@@ -157,13 +135,7 @@
     "id": "bahcallNewSolarOpacities2005",
     "issue": "1",
     "issued": {
-      "date-parts": [
-        [
-          2005,
-          3,
-          1
-        ]
-      ]
+      "date-parts": [[2005, 3, 1]]
     },
     "language": "en-US",
     "page": "L85-L88",
@@ -176,13 +148,7 @@
     "ISSN": "0031-9007",
     "URL": "https://link.aps.org/doi/10.1103/PhysRevLett.70.705",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          7,
-          21
-        ]
-      ]
+      "date-parts": [[2024, 7, 21]]
     },
     "author": [
       {
@@ -195,13 +161,7 @@
     "id": "bergerEnergycrossingNumberRelations1993",
     "issue": "6",
     "issued": {
-      "date-parts": [
-        [
-          1993,
-          2,
-          8
-        ]
-      ]
+      "date-parts": [[1993, 2, 8]]
     },
     "language": "en-US",
     "page": "705-708",
@@ -215,13 +175,7 @@
     "URL": "https://www.cambridge.org/core/product/identifier/S0022377815000483/type/journal_article",
     "abstract": "In this paper we investigate the evolution of braided solar coronal loops. We assume that coronal loops consist of several internal strands which twist and braid about each other. Reconnection between the strands leads to small flares and heating of the loop to x-ray temperatures. Using a method of generating and releasing braid structure similar to a forest fire model, we show that the reconnected field lines evolve to a self-organised critical state. In this state, the frequency distributions of coherent braid sequences as well as flare energies follow power law distributions. We demonstrate how the presence of net helicity in the loop alters the distribution laws.",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          7,
-          21
-        ]
-      ]
+      "date-parts": [[2024, 7, 21]]
     },
     "author": [
       {
@@ -242,12 +196,7 @@
     "id": "bergerSelforganizedBraidingSolar2015",
     "issue": "4",
     "issued": {
-      "date-parts": [
-        [
-          2015,
-          8
-        ]
-      ]
+      "date-parts": [[2015, 8]]
     },
     "language": "en-US",
     "page": "395810404",
@@ -269,11 +218,7 @@
     "container-title": "Handbook of knot theory",
     "id": "birmanBraidsSurvey2005",
     "issued": {
-      "date-parts": [
-        [
-          2005
-        ]
-      ]
+      "date-parts": [[2005]]
     },
     "page": "19-103",
     "publisher": "Elsevier",
@@ -295,11 +240,7 @@
     "container-title": "https://dornsife.usc.edu/francis-bonahon/wp-content/uploads/sites/205/2023/06/BonSieb-compressed.pdf",
     "id": "bonahonNewGeometricSplittings2016",
     "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
+      "date-parts": [[2016]]
     },
     "language": "en-US",
     "title": "New Geometric Splittings of Classical Knots and the Classiﬁcation and Symmetries of Arborescent Knots",
@@ -312,13 +253,7 @@
     "URL": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2020.25",
     "abstract": "The tabulation of all prime knots up to a given number of crossings was one of the founding problems of knot theory in the 1800s, and continues to be of interest today. Here we extend the tables from 16 to 19 crossings, with a total of 352 152 252 distinct non-trivial prime knots. The tabulation has two major stages: (1) a combinatorial enumeration stage, which involves generating a provably sufficient set of candidate knot diagrams; and (2) a computational topology stage, which involves identifying and removing duplicate knots, and certifying that all knots that remain are topologically distinct. In this paper we describe the many different algorithmic components in this process, which draw on graph theory, hyperbolic geometry, knot polynomials, normal surface theory, and computational algebra. We also discuss the algorithm engineering challenges in solving difficult topological problems systematically and reliably on hundreds of millions of inputs, despite the fact that no reliably fast algorithms for these problems are known.",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          8,
-          1
-        ]
-      ]
+      "date-parts": [[2024, 8, 1]]
     },
     "author": [
       {
@@ -329,11 +264,7 @@
     "container-title": "LIPIcs, Volume 164, SoCG 2020",
     "id": "burtonNext350Million2020",
     "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
+      "date-parts": [[2020]]
     },
     "keyword": "3-manifolds,Computational topology,implementation,knots,Mathematics of computing → Topology",
     "language": "en-US",
@@ -358,11 +289,7 @@
     "edition": "2. ed., Pearson new internat. ed",
     "id": "carrollIntroductionModernAstrophysics2014",
     "issued": {
-      "date-parts": [
-        [
-          2014
-        ]
-      ]
+      "date-parts": [[2014]]
     },
     "language": "en-US",
     "number-of-pages": "1470",
@@ -382,11 +309,7 @@
     "collection-title": "Prépublications / université de paris-sud, département de mathématiques",
     "id": "caudron1982classification",
     "issued": {
-      "date-parts": [
-        [
-          1982
-        ]
-      ]
+      "date-parts": [[1982]]
     },
     "publisher": "Université de Paris-Sud, Dép. de mathématique",
     "title": "Classification des noeuds et des enlacements",
@@ -397,13 +320,7 @@
     "ISSN": "0028-0836, 1476-4687",
     "URL": "https://www.nature.com/articles/nature11772",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          7,
-          22
-        ]
-      ]
+      "date-parts": [[2024, 7, 22]]
     },
     "author": [
       {
@@ -464,12 +381,7 @@
     "id": "cirtainEnergyReleaseSolar2013",
     "issue": "7433",
     "issued": {
-      "date-parts": [
-        [
-          2013,
-          1
-        ]
-      ]
+      "date-parts": [[2013, 1]]
     },
     "language": "en-US",
     "page": "501-503",
@@ -481,13 +393,7 @@
     "DOI": "10.17077/etd.005978",
     "URL": "https://iro.uiowa.edu/esploro/outputs/doctoral/9984124571002771",
     "accessed": {
-      "date-parts": [
-        [
-          2023,
-          5,
-          4
-        ]
-      ]
+      "date-parts": [[2023, 5, 4]]
     },
     "author": [
       {
@@ -498,12 +404,7 @@
     "genre": "Doctor of Philosophy",
     "id": "connollyClassificationTabulation2string2021",
     "issued": {
-      "date-parts": [
-        [
-          2021,
-          8
-        ]
-      ]
+      "date-parts": [[2021, 8]]
     },
     "keyword": "done",
     "language": "en-US",
@@ -517,13 +418,7 @@
     "ISBN": "978-0-08-012975-4",
     "URL": "https://linkinghub.elsevier.com/retrieve/pii/B9780080129754500345",
     "accessed": {
-      "date-parts": [
-        [
-          2023,
-          5,
-          4
-        ]
-      ]
+      "date-parts": [[2023, 5, 4]]
     },
     "author": [
       {
@@ -534,11 +429,7 @@
     "container-title": "Computational Problems in Abstract Algebra",
     "id": "conwayEnumerationKnotsLinks1970",
     "issued": {
-      "date-parts": [
-        [
-          1970
-        ]
-      ]
+      "date-parts": [[1970]]
     },
     "language": "en-US",
     "page": "329-358",
@@ -551,13 +442,7 @@
     "ISSN": "1362-4962, 0305-1048",
     "URL": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkn192",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          7,
-          24
-        ]
-      ]
+      "date-parts": [[2024, 7, 24]]
     },
     "author": [
       {
@@ -577,12 +462,7 @@
     "id": "darcy3DVisualizationSoftware2008",
     "issue": "11",
     "issued": {
-      "date-parts": [
-        [
-          2008,
-          6
-        ]
-      ]
+      "date-parts": [[2008, 6]]
     },
     "language": "en-US",
     "page": "3515-3521",
@@ -595,13 +475,7 @@
     "ISSN": "01668641",
     "URL": "https://linkinghub.elsevier.com/retrieve/pii/0166864183900044",
     "accessed": {
-      "date-parts": [
-        [
-          2023,
-          8,
-          23
-        ]
-      ]
+      "date-parts": [[2023, 8, 23]]
     },
     "author": [
       {
@@ -618,12 +492,7 @@
     "id": "dowkerClassificationKnotProjections1983",
     "issue": "1",
     "issued": {
-      "date-parts": [
-        [
-          1983,
-          7
-        ]
-      ]
+      "date-parts": [[1983, 7]]
     },
     "language": "en-US",
     "page": "19-31",
@@ -641,11 +510,7 @@
     ],
     "id": "dr.amywinebargerHiCFieldView2013",
     "issued": {
-      "date-parts": [
-        [
-          2013
-        ]
-      ]
+      "date-parts": [[2013]]
     },
     "title": "Hi-C field of view with braids",
     "type": ""
@@ -655,13 +520,7 @@
     "ISSN": "0027-8424, 1091-6490",
     "URL": "https://pnas.org/doi/full/10.1073/pnas.50.2.236",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          7,
-          24
-        ]
-      ]
+      "date-parts": [[2024, 7, 24]]
     },
     "author": [
       {
@@ -678,12 +537,7 @@
     "id": "dulbeccoEVIDENCERINGSTRUCTURE1963",
     "issue": "2",
     "issued": {
-      "date-parts": [
-        [
-          1963,
-          8
-        ]
-      ]
+      "date-parts": [[1963, 8]]
     },
     "language": "en-US",
     "page": "236-243",
@@ -697,13 +551,7 @@
     "URL": "https://www.cambridge.org/core/product/identifier/S0305004100069383/type/journal_article",
     "abstract": "There exist naturally occurring enzymes (topoisomerases and recombinases), which, in order to mediate the vital life processes of replication, transcription, and recombination, manipulate cellular DNA in topologically interesting and non-trivial ways [24, 30]. These enzyme actions include promoting the coiling up (supercoiling) of DNA molecules, passing one strand of DNA through another via a transient enzyme-bridged break in one of the strands (a move performed by topoisomerase), and breaking a pair of strands and recombining them to different ends (a move performed by recombinase). An interesting development for topology has been the emergence of a new experimental protocol, the topological approach to enzymology [30], which directly exploits knot theory in an effort to understand enzyme action. In this protocol, one reacts artificial circular DNA substrate with purified enzyme in vitro (in the laboratory); the enzyme acts on the circular DNA, causing changes in both the euclidean geometry (supercoiling) of the molecules and in the topology (knotting and linking) of the molecules. These enzyme-caused changes are experimental observables, using gel electrophoresis to fractionate the reaction products, and rec A enhanced electron microscopy [15] to visualize directly and to determine unambiguously the DNA knots and links which result as products of an enzyme reaction. This experimental technique calls for the building of knot-theoretic models for enzyme action, in which one wishes mathematically to extract information about enzyme mechanism from the observed changes in the DNA molecules.",
     "accessed": {
-      "date-parts": [
-        [
-          2023,
-          5,
-          4
-        ]
-      ]
+      "date-parts": [[2023, 5, 4]]
     },
     "author": [
       {
@@ -720,12 +568,7 @@
     "id": "ernstCalculusRationalTangles1990",
     "issue": "3",
     "issued": {
-      "date-parts": [
-        [
-          1990,
-          11
-        ]
-      ]
+      "date-parts": [[1990, 11]]
     },
     "language": "en-US",
     "page": "489-515",
@@ -740,13 +583,7 @@
     "URL": "https://www.worldscientific.com/doi/abs/10.1142/S0218216596000114",
     "abstract": "We are given fixed rational tangles P and R and knots or links K 1 and K 2 . Let O be a tangle such that N(O+P)=K 1 and N(O+R)=K 2 , where N is the numerator construction on the tangles O+P and O+R, respectively. N(O+P)=K 1 and N(O+R)=K 1 form two equations, in which O is treated as a variable and P, R, K 1 and K 2 are kept fixed. The number and types of solutions for O in the cases where K 1 and K 2 are 4-plats or Montesinos knots are discussed.",
     "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          15
-        ]
-      ]
+      "date-parts": [[2023, 11, 15]]
     },
     "author": [
       {
@@ -759,12 +596,7 @@
     "id": "ernstTANGLEEQUATIONS1996",
     "issue": "02",
     "issued": {
-      "date-parts": [
-        [
-          1996,
-          4
-        ]
-      ]
+      "date-parts": [[1996, 4]]
     },
     "language": "en-US",
     "page": "145-159",
@@ -777,13 +609,7 @@
     "ISSN": "0273-0979, 1088-9485",
     "URL": "https://www.ams.org/bull/1985-12-02/S0273-0979-1985-15361-3/",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          7,
-          29
-        ]
-      ]
+      "date-parts": [[2024, 7, 29]]
     },
     "author": [
       {
@@ -816,11 +642,7 @@
     "id": "freydNewPolynomialInvariant1985",
     "issue": "2",
     "issued": {
-      "date-parts": [
-        [
-          1985
-        ]
-      ]
+      "date-parts": [[1985]]
     },
     "language": "en-US",
     "page": "239-246",
@@ -833,13 +655,7 @@
     "ISSN": "01968858",
     "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0196885896905114",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          8,
-          16
-        ]
-      ]
+      "date-parts": [[2024, 8, 16]]
     },
     "author": [
       {
@@ -856,12 +672,7 @@
     "id": "goldmanRationalTangles1997",
     "issue": "3",
     "issued": {
-      "date-parts": [
-        [
-          1997,
-          4
-        ]
-      ]
+      "date-parts": [[1997, 4]]
     },
     "language": "en-US",
     "page": "300-332",
@@ -875,13 +686,7 @@
     "URL": "https://linkinghub.elsevier.com/retrieve/pii/B978044451452350006X",
     "abstract": "The theoretical and practical aspects of link classification are described, with special emphasis on the mathematics involved in recent, large-scale link tabulations.",
     "accessed": {
-      "date-parts": [
-        [
-          2023,
-          5,
-          4
-        ]
-      ]
+      "date-parts": [[2023, 5, 4]]
     },
     "author": [
       {
@@ -892,11 +697,7 @@
     "container-title": "Handbook of Knot Theory",
     "id": "hosteEnumerationClassificationKnots2005",
     "issued": {
-      "date-parts": [
-        [
-          2005
-        ]
-      ]
+      "date-parts": [[2005]]
     },
     "language": "en-US",
     "page": "209-232",
@@ -909,13 +710,7 @@
     "ISSN": "0343-6993",
     "URL": "http://link.springer.com/10.1007/BF03025227",
     "accessed": {
-      "date-parts": [
-        [
-          2023,
-          5,
-          4
-        ]
-      ]
+      "date-parts": [[2023, 5, 4]]
     },
     "author": [
       {
@@ -936,12 +731,7 @@
     "id": "hosteFirst1701936Knots1998",
     "issue": "4",
     "issued": {
-      "date-parts": [
-        [
-          1998,
-          9
-        ]
-      ]
+      "date-parts": [[1998, 9]]
     },
     "language": "en-US",
     "page": "33-48",
@@ -966,11 +756,7 @@
     "collection-title": "K & E series on knots and everything",
     "id": "jablanLinKnotKnotTheory2007",
     "issued": {
-      "date-parts": [
-        [
-          2007
-        ]
-      ]
+      "date-parts": [[2007]]
     },
     "number-of-pages": "485",
     "publisher": "World Scientific",
@@ -989,13 +775,7 @@
     ],
     "id": "jonesJonesPolynomialDummies2014",
     "issued": {
-      "date-parts": [
-        [
-          2014,
-          2,
-          12
-        ]
-      ]
+      "date-parts": [[2014, 2, 12]]
     },
     "title": "The Jones polynomial for dummies",
     "type": ""
@@ -1005,13 +785,7 @@
     "ISSN": "0273-0979, 1088-9485",
     "URL": "https://www.ams.org/bull/1985-12-01/S0273-0979-1985-15304-2/",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          9,
-          25
-        ]
-      ]
+      "date-parts": [[2024, 9, 25]]
     },
     "author": [
       {
@@ -1024,11 +798,7 @@
     "id": "jonesPolynomialInvariantKnots1985",
     "issue": "1",
     "issued": {
-      "date-parts": [
-        [
-          1985
-        ]
-      ]
+      "date-parts": [[1985]]
     },
     "language": "en-US",
     "page": "103-111",
@@ -1041,13 +811,7 @@
     "URL": "https://arxiv.org/abs/math/0212011",
     "abstract": "This paper gives new and elementary combinatorial topological proofs of the classification of unoriented and oriented rational knots and links. These proofs are based on the known classification of alternating knots through flyping, and the calculus of continued fractions. We characterize the class of strongly invertible rational links. Rational links are of fundamental importance in the study of DNA recombination.",
     "accessed": {
-      "date-parts": [
-        [
-          2023,
-          5,
-          26
-        ]
-      ]
+      "date-parts": [[2023, 5, 26]]
     },
     "author": [
       {
@@ -1062,11 +826,7 @@
     "container-title": "arXiv: Geometric Topology",
     "id": "kauffmanClassificationRationalKnots2002",
     "issued": {
-      "date-parts": [
-        [
-          2002
-        ]
-      ]
+      "date-parts": [[2002]]
     },
     "title": "On the Classification of Rational Knots",
     "type": "article-journal"
@@ -1076,13 +836,7 @@
     "ISBN": "978-1-4704-2257-8 978-1-4704-3526-4",
     "URL": "http://www.ams.org/conm/670",
     "accessed": {
-      "date-parts": [
-        [
-          2023,
-          5,
-          25
-        ]
-      ]
+      "date-parts": [[2023, 5, 25]]
     },
     "author": [
       {
@@ -1103,11 +857,7 @@
     ],
     "id": "kauffmanIntroductionKhovanovHomology2016",
     "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
+      "date-parts": [[2016]]
     },
     "language": "en-US",
     "page": "105-139",
@@ -1122,13 +872,7 @@
     "ISSN": "00409383",
     "URL": "https://linkinghub.elsevier.com/retrieve/pii/0040938387900097",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          9,
-          25
-        ]
-      ]
+      "date-parts": [[2024, 9, 25]]
     },
     "author": [
       {
@@ -1141,11 +885,7 @@
     "id": "kauffmanStateModelsJones1987",
     "issue": "3",
     "issued": {
-      "date-parts": [
-        [
-          1987
-        ]
-      ]
+      "date-parts": [[1987]]
     },
     "language": "en-US",
     "page": "395-407",
@@ -1159,13 +899,7 @@
     "URL": "http://link.springer.com/10.1007/978-3-540-49858-2_5",
     "abstract": "This paper draws a line from the elements of tangle fractions to the tangle model of DNA recombination. In the process, we sketch the classification of rational tangles, unoriented and oriented rational knots and the application of these subjects to DNA recombination.",
     "accessed": {
-      "date-parts": [
-        [
-          2023,
-          5,
-          4
-        ]
-      ]
+      "date-parts": [[2023, 5, 4]]
     },
     "author": [
       {
@@ -1186,11 +920,7 @@
     ],
     "id": "kauffmanTangleFractionsDNA2007",
     "issued": {
-      "date-parts": [
-        [
-          2007
-        ]
-      ]
+      "date-parts": [[2007]]
     },
     "language": "en-US",
     "page": "69-110",
@@ -1208,11 +938,7 @@
     ],
     "id": "kcneumanTypeIITopoisomerase2007",
     "issued": {
-      "date-parts": [
-        [
-          2007
-        ]
-      ]
+      "date-parts": [[2007]]
     },
     "title": "Type II topoisomerase catalytic cycle",
     "type": ""
@@ -1227,11 +953,7 @@
     "container-title": "Transactions of the Royal Society of Edinburgh",
     "id": "kirkmanEnumerationDescriptionConstruction1885",
     "issued": {
-      "date-parts": [
-        [
-          1885
-        ]
-      ]
+      "date-parts": [[1885]]
     },
     "page": "80-81",
     "title": "The enumeration, description, and construction of knots of fewer than 10 crossings",
@@ -1243,13 +965,7 @@
     "ISBN": "978-1-4612-6869-7 978-1-4612-0691-0",
     "URL": "http://link.springer.com/10.1007/978-1-4612-0691-0",
     "accessed": {
-      "date-parts": [
-        [
-          2023,
-          5,
-          4
-        ]
-      ]
+      "date-parts": [[2023, 5, 4]]
     },
     "author": [
       {
@@ -1260,11 +976,7 @@
     "collection-title": "Graduate Texts in Mathematics",
     "id": "lickorishIntroductionKnotTheory1997",
     "issued": {
-      "date-parts": [
-        [
-          1997
-        ]
-      ]
+      "date-parts": [[1997]]
     },
     "language": "en-US",
     "publisher": "Springer New York",
@@ -1284,11 +996,7 @@
     "id": "littleKnotsCensusOrder1885",
     "issue": "18",
     "issued": {
-      "date-parts": [
-        [
-          1885
-        ]
-      ]
+      "date-parts": [[1885]]
     },
     "page": "27-43",
     "title": "On knots, with a census for order 10",
@@ -1372,11 +1080,7 @@
     ],
     "id": "madeleinepriceballDNAChemicalStructure2007",
     "issued": {
-      "date-parts": [
-        [
-          2007
-        ]
-      ]
+      "date-parts": [[2007]]
     },
     "title": "DNA chemical structure",
     "type": ""
@@ -1387,13 +1091,7 @@
     "URL": "https://www.worldscientific.com/doi/abs/10.1142/S0218216521500607",
     "abstract": "Generalized Montesinos tangles are classified, and the system of unoriented tangle equations [Formula: see text] and [Formula: see text] is solved for a generalized Montesinos tangle [Formula: see text] where [Formula: see text] and [Formula: see text] are rational tangles and [Formula: see text] and [Formula: see text] are Montesinos knots/links.",
     "accessed": {
-      "date-parts": [
-        [
-          2023,
-          5,
-          8
-        ]
-      ]
+      "date-parts": [[2023, 5, 8]]
     },
     "author": [
       {
@@ -1410,12 +1108,7 @@
     "id": "moonTangleEquationsInvolving2021",
     "issue": "08",
     "issued": {
-      "date-parts": [
-        [
-          2021,
-          7
-        ]
-      ]
+      "date-parts": [[2021, 7]]
     },
     "language": "en-US",
     "page": "2150060",
@@ -1436,11 +1129,7 @@
     "edition": "First edition",
     "id": "murdinEncyclopediaAstronomyAstrophysics2021",
     "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
+      "date-parts": [[2021]]
     },
     "language": "en-US",
     "publisher": "CRC Press",
@@ -1453,13 +1142,7 @@
     "ISSN": "00200190",
     "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0020019002002405",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          10,
-          8
-        ]
-      ]
+      "date-parts": [[2024, 10, 8]]
     },
     "author": [
       {
@@ -1472,12 +1155,7 @@
     "id": "nakanoEfficientGenerationPlane2002",
     "issue": "3",
     "issued": {
-      "date-parts": [
-        [
-          2002,
-          11
-        ]
-      ]
+      "date-parts": [[2002, 11]]
     },
     "language": "en-US",
     "page": "167-172",
@@ -1494,11 +1172,7 @@
     ],
     "id": "pbroks13SkeinHOMFLYsvg2008",
     "issued": {
-      "date-parts": [
-        [
-          2008
-        ]
-      ]
+      "date-parts": [[2008]]
     },
     "title": "Skein (HOMFLY).svg",
     "type": ""
@@ -1509,13 +1183,7 @@
     "URL": "https://www.ams.org/proc/1974-045-02/S0002-9939-1974-0353294-X/",
     "abstract": "Linking numbers between branch curves of irregular covering spaces of knots are used to extend the classification of knots through ten crossings and to show that the only amphicheirals in Reidemeister’s table are the seven identified by Tait in 1884. Diagrams of the 165 prime 10 10 -crossing knot types are appended. (Murasugi and the author have proven them prime; Conway claims proof that the tables are complete.) Including the trivial type, there are precisely 250 prime knots with ten or fewer crossings.",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          9,
-          11
-        ]
-      ]
+      "date-parts": [[2024, 9, 11]]
     },
     "author": [
       {
@@ -1528,11 +1196,7 @@
     "id": "perkoClassificationKnots1974",
     "issue": "2",
     "issued": {
-      "date-parts": [
-        [
-          1974
-        ]
-      ]
+      "date-parts": [[1974]]
     },
     "language": "en-US",
     "page": "262-266",
@@ -1550,11 +1214,7 @@
     ],
     "id": "rolfsenKnotsLinks2003",
     "issued": {
-      "date-parts": [
-        [
-          2003
-        ]
-      ]
+      "date-parts": [[2003]]
     },
     "language": "en-US",
     "publisher": "AMS Chelsea Pub",
@@ -1585,11 +1245,7 @@
     "container-title": "Mathematische Zeitschrift",
     "id": "schubertKnotenMitZwei1956",
     "issued": {
-      "date-parts": [
-        [
-          1956
-        ]
-      ]
+      "date-parts": [[1956]]
     },
     "keyword": "topology",
     "language": "de-DE",
@@ -1608,11 +1264,7 @@
     "container-title": "Transactions of the Royal Society of Edinburgh",
     "id": "taitFirstSevenOrders1884",
     "issued": {
-      "date-parts": [
-        [
-          1884
-        ]
-      ]
+      "date-parts": [[1884]]
     },
     "page": "44",
     "title": "The first seven orders of knottiness",
@@ -1629,11 +1281,7 @@
     "container-title": "Scientific Papers London: Cambridge University Press",
     "id": "taitKnotsIIIII1900",
     "issued": {
-      "date-parts": [
-        [
-          1900
-        ]
-      ]
+      "date-parts": [[1900]]
     },
     "page": "273-347",
     "title": "On Knots I, II, III",
@@ -1650,11 +1298,7 @@
     "container-title": "Transactions of the Royal Society of Edinburgh",
     "id": "taitTenfoldKnottiness1885",
     "issued": {
-      "date-parts": [
-        [
-          1885
-        ]
-      ]
+      "date-parts": [[1885]]
     },
     "page": "80,81",
     "title": "Tenfold knottiness",
@@ -1672,11 +1316,7 @@
     "container-title": "Proceedings of the Royal Society of Edinburgh",
     "id": "thomsonVortexAtoms1867",
     "issued": {
-      "date-parts": [
-        [
-          1867
-        ]
-      ]
+      "date-parts": [[1867]]
     },
     "page": "94-105",
     "title": "On Vortex Atoms",
@@ -1693,13 +1333,7 @@
     "ISSN": "0027-8424, 1091-6490",
     "URL": "https://pnas.org/doi/full/10.1073/pnas.53.5.1104",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          7,
-          24
-        ]
-      ]
+      "date-parts": [[2024, 7, 24]]
     },
     "author": [
       {
@@ -1728,12 +1362,7 @@
     "id": "vinogradTwistedCircularForm1965",
     "issue": "5",
     "issued": {
-      "date-parts": [
-        [
-          1965,
-          5
-        ]
-      ]
+      "date-parts": [[1965, 5]]
     },
     "language": "en-US",
     "page": "1104-1111",
@@ -1746,13 +1375,7 @@
     "ISSN": "0028-0836, 1476-4687",
     "URL": "https://www.nature.com/articles/171737a0",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          10,
-          6
-        ]
-      ]
+      "date-parts": [[2024, 10, 6]]
     },
     "author": [
       {
@@ -1769,13 +1392,7 @@
     "id": "watsonMolecularStructureNucleic1953",
     "issue": "4356",
     "issued": {
-      "date-parts": [
-        [
-          1953,
-          4,
-          25
-        ]
-      ]
+      "date-parts": [[1953, 4, 25]]
     },
     "language": "en-US",
     "page": "737-738",
@@ -1789,13 +1406,7 @@
     "ISSN": "0027-8424, 1091-6490",
     "URL": "https://pnas.org/doi/full/10.1073/pnas.50.4.730",
     "accessed": {
-      "date-parts": [
-        [
-          2024,
-          7,
-          24
-        ]
-      ]
+      "date-parts": [[2024, 7, 24]]
     },
     "author": [
       {
@@ -1812,12 +1423,7 @@
     "id": "weilCYCLICHELIXCYCLIC1963",
     "issue": "4",
     "issued": {
-      "date-parts": [
-        [
-          1963,
-          10
-        ]
-      ]
+      "date-parts": [[1963, 10]]
     },
     "language": "en-US",
     "page": "730-738",
@@ -1831,25 +1437,13 @@
     "URL": "https://royalsocietypublishing.org/doi/10.1098/rsta.1893.0017",
     "abstract": "1. Compositions are merely partitions in which the order of occurrence of the parts is essential; thus, while the partitions of the number 3 are (3), (21), (12), (111). The enumerations of the compositions of a number n into p parts, zeros excluded, is given by the coefficient of x n in the expansion of ( x + x 2 + x 3 + . . .) p ; this expression may be written ( x /1- x ) p , and the coefficient of x n is seen to be ( n -1 p -1).",
     "accessed": {
-      "date-parts": [
-        [
-          2025,
-          4,
-          1
-        ]
-      ]
+      "date-parts": [[2025, 4, 1]]
     },
     "container-title": "Philosophical Transactions of the Royal Society of London. (A.)",
     "container-title-short": "Phil. Trans. R. Soc. Lond. A",
     "id": "XVIIMemoirTheory1893",
     "issued": {
-      "date-parts": [
-        [
-          1893,
-          12,
-          31
-        ]
-      ]
+      "date-parts": [[1893, 12, 31]]
     },
     "language": "en-US",
     "page": "835-901",
