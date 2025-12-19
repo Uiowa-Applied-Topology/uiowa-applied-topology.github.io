@@ -18,6 +18,7 @@
           pkgs.just
           pkgs.nodejs
           pkgs.tailwindcss
+          pkgs.nodePackages.prettier
         ];
 
         shellHook = ''
