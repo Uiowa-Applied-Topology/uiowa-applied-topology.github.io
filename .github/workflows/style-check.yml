@@ -1,0 +1,37 @@
+name: Style Check and Build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  style-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: recursive
+
+      - name: Get Just
+        uses: extractions/setup-just@v1
+        with:
+          just-version: 'latest'
+
+      - name: Get Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Get Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Get Dependencies
+        run: just install-styling
+
+      - name: Check Styling
+        run: just check-style

@@ -2,10 +2,15 @@
 # top-most EditorConfig file
 root = true
 
-[*]
+[*.html, *.md]
 charset = utf-8
 insert_final_newline = false
 end_of_line = lf
 indent_style = space
-indent_size = 4
+indent_size = 2
 max_line_length = 80
+trim_trailing_whitespace = true
+
+# Can optionally add this but a lot of things were broken
+# [{*.html, *.css, *.toml, *.yaml, *.yml, *.json, *.js}]
+# indent_size = 2

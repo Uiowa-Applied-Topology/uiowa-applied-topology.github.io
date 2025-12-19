@@ -1,0 +1,31 @@
+{
+  "name": "uiatw",
+  "scripts": {
+    "format": "prettier --write .",
+    "check-format": "prettier --check .",
+    "build": "hugo --minify",
+    "dev": "hugo server -D"
+  },
+  "devDependencies": {
+    "editorconfig-checker": "^6.0.1",
+    "prettier": "^2.8.8",
+    "prettier-plugin-go-template": "^0.0.13"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uiowa-Applied-Topology/uiowa-applied-topology.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uiowa-Applied-Topology/uiowa-applied-topology.github.io/issues"
+  },
+  "homepage": "https://github.com/Uiowa-Applied-Topology/uiowa-applied-topology.github.io#readme",
+  "dependencies": {
+    "ulid": "^2.4.0"
+  },
+  "description": ""
+}
